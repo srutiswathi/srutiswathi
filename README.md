@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I am Sruti Karthikeyan, a senior at the University of Texas at Dallas, majoring in Computer Science. I hold a certification in the Foundations of Machine Learning from Cornell University and am currently a Break Through Tech AI Fellow at Cornell Tech.
+
+I have gained valuable experience through three software engineering internships, where I honed my skills in backend development, blockchain technologies, and full-stack engineering. These experiences have equipped me with a strong foundation in building scalable systems and collaborating with cross-functional teams.
+
+Currently, I am collaborating with Google on a Machine Learning project to analyze mental health and wellness trends. This involves leveraging Google Trends data to identify patterns and spikes in search terms related to substance use across various locations. Using advanced machine learning techniques such as spike-detection models, I aim to uncover actionable insights to address these societal challenges.
+
+As the director of the AIM program, I expanded AI project offerings by 19%, recruited and mentored a diverse cohort of mentees, and implemented scalable processes to ensure the program's long-term success. My technical expertise spans Python, Java, React, Node.js, and developing scalable machine learning models.
+
+
 <!--
 **srutiswathi/srutiswathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
